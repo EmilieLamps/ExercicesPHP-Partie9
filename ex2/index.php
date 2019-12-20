@@ -1,6 +1,6 @@
 <?php
 $page = "Exercice 2"; // Définir la variable pour changer le titre !
-$date = date('d-m-Y'); // Le séparateur peut être modifié
+$date = date('d-m-y'); // Le séparateur peut être modifié, le y en minuscule, permet de n'afficher que les deux derniers chiffres
 include '../header.php';
  ?>
  <h2 class="text-primary text-center pt-5 pb-5 font-weight-bold">Exercice 2</h2>

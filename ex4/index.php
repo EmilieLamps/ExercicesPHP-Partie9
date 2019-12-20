@@ -1,7 +1,7 @@
 <?php
 $page = "Exercice 4"; // Définir la variable pour changer le titre !
 $dDay = time();
-$oldTimestamp = mktime(8, 2, 2016);
+$oldTimestamp = mktime(15, 0, 0, 8, 2, 2016);
 include '../header.php';
  ?>
  <h2 class="text-primary text-center pt-5 pb-5 font-weight-bold">Exercice 4</h2>

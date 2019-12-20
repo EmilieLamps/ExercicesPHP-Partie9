@@ -45,6 +45,9 @@
       <li class="nav-item">
         <a class="nav-link" href="http://phppartie9.info/ex8/index.php">Exercice 8</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://phppartie9.info/Calendrier/index.php">Calendrier</a>
+      </li>
     </ul>
     <ul class="navbar-nav ml-auto nav-flex-icons">
       <li class="nav-item">

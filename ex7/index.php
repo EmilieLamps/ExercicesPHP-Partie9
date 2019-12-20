@@ -5,7 +5,6 @@ $dDay = time(); // affiche la date du jour en timestamp
 $dayNumber = 20; // Modifier la variable pour modifier le calcul
 $secondsDay = $dayNumber * 86400; // converti les jours de la variable dayNumber en secondes
 $timestampResult = ($dDay + $secondsDay); // additionne le timestamp du jour + celui du nombre de jours incrémentés
-var_dump($timestampResult);
 $result = date('d/m/Y', $timestampResult); // converti le timestamp en date au format JJ/MM/AAAA
 include '../header.php';
  ?>
